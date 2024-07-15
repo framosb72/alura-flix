@@ -1,0 +1,33 @@
+.card {
+  width: 430px;
+  height: 320px;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.secVideo {
+    margin-top: 1px;
+    margin-left: 1px;
+    width: 429px;
+    height: 260px;
+}
+
+.secControles {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.iconos {
+  height: 28px;
+  width: 110px;
+  color: white;
+  font-size: 19px;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}

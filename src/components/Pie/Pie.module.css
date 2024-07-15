@@ -1,0 +1,11 @@
+.piePagina {
+  background-color: black;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logoPie{
+    height: 40px;
+}
